@@ -1,0 +1,45 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Incubadora para cocodrilos}
+\author{Johan Arturo Barajas Herrera}
+\date{June 2024}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+\newpage
+\section{resumen ejecutivo}El proyecto tiene como objetivo establecer una incubadora especializada para huevos de cocodrilo, con el fin de aumentar la tasa de supervivencia de esta especie en peligro de extinción. La incubadora permitirá proteger los huevos en un ambiente controlado, asegurando una mayor eclosión y supervivencia de los neonatos.\\
+El proyecto abarca la construcción de una instalación adecuada, el equipamiento con tecnología avanzada, y el monitoreo constante de las condiciones de incubación. La implementación de esta iniciativa contribuirá significativamente a la conservación de la especie.
+\section{introducción}
+
+\subsection{contexto y antecedentes}
+\subsection{objetivos del proyecto}
+\subsection{alcance del proyecto}
+\section{marco teorico}
+\section{metodologia}
+\subsection{cronograma de actividades}
+\subsection{metodos y procesos utilizados}
+\section{diseño y desarrollo}
+\subsection{especificaciones tecnicas}
+\subsection{diagrama de cajas}
+\subsection{esquemas y diagramas}
+\subsection{hardware y software}
+\section{implementacion}
+\subsection{procedimiento}
+\subsection{pruebas y validacion}
+\subsection{analisis de resultados de las pruebas}
+\section{resultados}
+\subsection{descripcion de los resultados}
+\subsection{comparacion con los objetivos inciales}
+\subsection{tablas y graficos de los resultados}
+\section{conclusiones}
+\subsection{resumen de logros y aprendizajes}
+\subsection{limitaciones}
+\subsection{recomendaciones}
+\section{referencias}
+\section{anexos}
+\subsection{manual de usuario}
+\end{document}
